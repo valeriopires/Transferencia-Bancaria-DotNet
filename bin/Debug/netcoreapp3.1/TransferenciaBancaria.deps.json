@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TransferenciaBancaria/1.0.0": {
+        "runtime": {
+          "TransferenciaBancaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransferenciaBancaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

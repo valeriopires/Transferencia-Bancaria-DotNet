@@ -1,0 +1,13 @@
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.exe
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.deps.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.runtimeconfig.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.runtimeconfig.dev.json
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.dll
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\bin\Debug\netcoreapp3.1\TransferenciaBancaria.pdb
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.csprojAssemblyReference.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.AssemblyInfoInputs.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.AssemblyInfo.cs
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.dll
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.pdb
+C:\Users\Valério\Desktop\Developer\Digital Innovation One\Orientação a objetos em .NET\TransferenciaBancaria\obj\Debug\netcoreapp3.1\TransferenciaBancaria.genruntimeconfig.cache
